@@ -20,3 +20,7 @@
 * Formação: Bacharel em Tecnologia da Informação
 * Duração prevista: de julho de 2021 até julho de 2024
 * Linguagens de Programação: Python, C/C++.
+
+### GitHub
+
+* Linguagens de Programação publicadas: Python, C/C++, C#.
