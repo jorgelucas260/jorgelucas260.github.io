@@ -1,6 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="view-source:https://sei.univesp.br/javax.faces.resource/V2/icones/favicon.ico.xhtml"/>
-
-
 ## Jorge Lucas
 
 ### Dados pessoais
